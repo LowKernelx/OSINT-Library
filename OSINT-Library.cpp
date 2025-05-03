@@ -50,6 +50,9 @@ break;
 case 6:
 cout << Images_Video;
 break;
+default:
+cout << "Not Found!";
+break;
 
 
 }
